@@ -1,0 +1,25 @@
+﻿Sacrifice  when Spirit reaches 0 Spirit Points are taken from Life. This is the only way that some characters will have enough Spirit Points to perform certain actions
+Berserk – character can only attack and Power increased by Drive
+Lifeless – characters stats are reduced to 0 and character cannot be healed
+Knocked Out – character is unable to move. Set when Stamina is less than 0
+Confused – character is unaware of surrondings
+Drunk – character accuracy decreases
+Doomed – character has a countdown timer placed over their head which must removed before it runs out or they become Lifelsss
+Mortally Wounded – health rapidly decreases
+Frozen – character is incased in block of ice after a certain amount of rounds they become Lifeless
+Cold – (stackable) speed reduced by 10%
+Burned – does damage when moving
+Sleepy – speed decreased skip random turns
+Down – character is disabled and has fallen down
+Disarmed – character must get weapon and arm self again in order to attack
+Bound – character cannot perform any actions but to Break Free (interaction) or use Tool
+Blitz – (stackable) character Strength increases and Speed decreases while in combat (-5x through +5x)
+Exiled – character is kick out of battle cannot return until battle is over
+Infection – (stackable) character is damage each turn until infliction is healed
+Metamorphic – character is inflicted with random status affect each turn
+Omni – character enters a berserk like mode and attacks uncontrollable
+Fear – character is too affraid to move
+Stupid – character Intelligence is decreased and character unable to use Learn
+Zipped – character cannot use Gear
+Silence – character cannot use Spells
+Fathom – character cannot use Drive
